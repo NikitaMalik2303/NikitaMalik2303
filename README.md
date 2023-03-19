@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/nikitamalik2303" target="blank"><img src="https://img.shields.io/twitter/follow/nikitamalik2303?logo=twitter&style=for-the-badge" alt="nikitamalik2303" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Machine Learning Research Projects**
 
-- 🌱 I’m currently learning **Tensorflow and Computer Vision**
+- 🌱 I’m currently learning **Generative Adversarial Networks**
 
 - 💬 Ask me about **Machine Learning, Web Development**
 
