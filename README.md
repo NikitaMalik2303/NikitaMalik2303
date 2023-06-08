@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Machine Learning Research Projects**
 
-- 🌱 I’m currently learning **Generative Adversarial Networks**
+- 🌱 I’m currently learning **Normalising Flows**
 
-- 💬 Ask me about **Machine Learning, Web Development**
+- 💬 Ask me about **Machine Learning, Backend Development**
 
 - 📫 How to reach me **nikitamalik2303@gmail.com**
 
