@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Research Projects**
 
-- 🌱 I’m currently learning **Normalising Flows**
+- 🌱 I’m currently learning **Normalizing Flows**
 
 - 💬 Ask me about **Machine Learning, Backend Development**
 
