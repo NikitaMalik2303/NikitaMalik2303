@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Malik</h1>
-<h3 align="center">Passionate computer vision enthusiast | Leveraging AI for impactful solutions</h3>
+<h3 align="center">Passionate computer vision professional | Leveraging AI for impactful solutions</h3>
 
 <p align="left"> <a href="https://twitter.com/nikitamalik2303" target="blank"><img src="https://img.shields.io/twitter/follow/nikitamalik2303?logo=twitter&style=for-the-badge" alt="nikitamalik2303" /></a> </p>
 
