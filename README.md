@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/nikitamalik2303" target="blank"><img src="https://img.shields.io/twitter/follow/nikitamalik2303?logo=twitter&style=for-the-badge" alt="nikitamalik2303" /></a> </p>
 
-- 🔭 I’m currently working in **Computer Vision** and **Generative models** 
+- 🔭 I’m currently working on using **computer vision** algorithms for real world applications
 
-- 🌱 I’m currently working on using computer vision algorithms for real world applications
-
-- 💬 Ask me about **Computer Vision, Machine Learning, Backend Development**
+- 💬 Ask me about **Computer Vision, Generative Models. Machine Learning, Backend Development**
 
 - 📫 How to reach me **nikitamalik2303@gmail.com**
 
