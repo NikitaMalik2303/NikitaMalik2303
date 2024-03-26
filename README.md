@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikita Malik</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<h3 align="center">Passionate computer vision enthusiast | Leveraging AI for impactful solutions</h3>
 
 <p align="left"> <a href="https://twitter.com/nikitamalik2303" target="blank"><img src="https://img.shields.io/twitter/follow/nikitamalik2303?logo=twitter&style=for-the-badge" alt="nikitamalik2303" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning Research Projects**
+- 🔭 I’m currently working in **Computer Vision** and **Generative models** 
 
-- 🌱 I’m currently learning **Normalizing Flows**
+- 🌱 I’m currently working on using computer vision algorithms for real world applications
 
-- 💬 Ask me about **Machine Learning, Backend Development**
+- 💬 Ask me about **Computer Vision, Machine Learning, Backend Development**
 
 - 📫 How to reach me **nikitamalik2303@gmail.com**
 
@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/nikitamalik2303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikitamalik2303" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikita-malik-140b31222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-malik-140b31222" height="30" width="40" /></a>
-<a href="https://kaggle.com/nikitamalik2303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikitamalik2303" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
